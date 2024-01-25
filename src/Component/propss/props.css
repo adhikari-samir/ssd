@@ -1,0 +1,51 @@
+.flexing_btn {
+  display: flex;
+  justify-content: center;
+  gap: 2em;
+}
+
+.text {
+  text-align: center;
+  font-size: 7em;
+}
+
+.btn {
+  border-radius: 15px;
+  border: none;
+  color: antiquewhite;
+  padding: 10px;
+}
+
+.box_shadow {
+  box-shadow: 0 0 5px 0px;
+  width: fit-content;
+  padding-left: 1em;
+  padding-right: 4em;
+  margin: 1em;
+  border-radius: 1em;
+  border-bottom: 10px solid rgb(0, 255, 98);
+  display: flex;
+}
+
+.paragraph {
+  color: gray;
+  margin-top: -1.3em;
+}
+
+.heading {
+  font-size: 1.5em;
+}
+*/ * {
+  font-family: sans-serif;
+}
+
+.iconn {
+  margin-top: 2.3em;
+}
+.txt {
+  margin-left: 1em;
+}
+.ennnd {
+  display: flex;
+  justify-content: end;
+}
